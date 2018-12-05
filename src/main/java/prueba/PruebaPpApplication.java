@@ -10,7 +10,7 @@ public class PruebaPpApplication {
 
 		SpringApplication.run(PruebaPpApplication.class, args);
 		Contador contador = new Contador();
-		int cantidad = contador.cantidadLetras("Damian");
-		System.out.println("La cantidad de letras de la palabra Damian es " + cantidad);
+		int cantidad = contador.cantidadLetras("Carlos");
+		System.out.println("La cantidad de letras de la palabra Carlos es " + cantidad);
 	}
 }

@@ -10,4 +10,5 @@ Feature: Cantidad de letras?
       | cadena | cantidad |
       | Damian | 6 |
       | Leo | 3 |
+      | Andres | 6 |
       |  | 0 |
